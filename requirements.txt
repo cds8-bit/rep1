@@ -1,0 +1,8 @@
+streamlit
+plot
+download
+plotly
+plotly.express
+numpy
+pandas
+Yfinance
