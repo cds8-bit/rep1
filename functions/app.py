@@ -1,5 +1,5 @@
 import streamlit as st
-from libs.plot import plot_ts
+from plotly import plot_ts
 
 st.title('Stocks History')
 st.write('Lool the stocks values')
